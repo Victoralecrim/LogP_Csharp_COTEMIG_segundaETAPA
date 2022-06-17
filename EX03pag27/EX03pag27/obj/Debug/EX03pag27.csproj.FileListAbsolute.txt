@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\bin\Debug\EX03pag27.exe.config
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\bin\Debug\EX03pag27.exe
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\bin\Debug\EX03pag27.pdb
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.Form1.resources
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.exe
+H:\Visual Studio 2022\Projects\EX03pag27\EX03pag27\obj\Debug\EX03pag27.pdb

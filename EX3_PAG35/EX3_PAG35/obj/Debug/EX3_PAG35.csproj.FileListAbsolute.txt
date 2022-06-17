@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\bin\Debug\EX3_PAG35.exe.config
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\bin\Debug\EX3_PAG35.exe
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\bin\Debug\EX3_PAG35.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.Form1.resources
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.Properties.Resources.resources
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.exe
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EX3_PAG35\EX3_PAG35\obj\Debug\EX3_PAG35.pdb

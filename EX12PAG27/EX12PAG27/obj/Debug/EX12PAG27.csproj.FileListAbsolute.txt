@@ -1,0 +1,11 @@
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\bin\Debug\EX12PAG27.exe.config
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\bin\Debug\EX12PAG27.exe
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\bin\Debug\EX12PAG27.pdb
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.csproj.AssemblyReference.cache
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.csproj.SuggestedBindingRedirects.cache
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.Form1.resources
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.Properties.Resources.resources
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.csproj.GenerateResource.cache
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.csproj.CoreCompileInputs.cache
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.exe
+H:\LogP\SegundaEtapa\EX12PAG27\EX12PAG27\obj\Debug\EX12PAG27.pdb

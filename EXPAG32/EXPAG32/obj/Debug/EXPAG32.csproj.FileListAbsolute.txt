@@ -1,0 +1,11 @@
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\bin\Debug\EXPAG32.exe.config
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\bin\Debug\EXPAG32.exe
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\bin\Debug\EXPAG32.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.Form1.resources
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.Properties.Resources.resources
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.exe
+C:\Users\victo\OneDrive\Área de Trabalho\LogP_C#_COTEMIG\SegundaEtapa\EXPAG32\EXPAG32\obj\Debug\EXPAG32.pdb

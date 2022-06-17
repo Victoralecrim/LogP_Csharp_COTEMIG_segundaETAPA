@@ -1,0 +1,11 @@
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\bin\Debug\EXPAG35.exe.config
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\bin\Debug\EXPAG35.exe
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\bin\Debug\EXPAG35.pdb
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.csproj.AssemblyReference.cache
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.csproj.SuggestedBindingRedirects.cache
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.Form1.resources
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.Properties.Resources.resources
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.csproj.GenerateResource.cache
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.csproj.CoreCompileInputs.cache
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.exe
+H:\LogP\SegundaEtapa\EXPAG35\EXPAG35\obj\Debug\EXPAG35.pdb
