@@ -69,6 +69,7 @@
             this.btnCALC.TabIndex = 4;
             this.btnCALC.Text = "CALCULAR";
             this.btnCALC.UseVisualStyleBackColor = true;
+            this.btnCALC.Click += new System.EventHandler(this.btnCALC_Click_1);
             // 
             // lblEXIBIRTOT
             // 

@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace EX3_PAG35
 {
+
     public partial class Form1 : Form
     {
         public Form1()
@@ -17,54 +18,40 @@ namespace EX3_PAG35
             InitializeComponent();
         }
 
-        class CalcPrecoProd
+
+        private void btnCALC_Click_1(object sender, EventArgs e)
         {
-            public double CalcPrecoTOT(double precoTOT, double preco, int quantidade)
-            {
-                double precoTotal;
-                precoTotal = (quantidade * preco);
-                return precoTotal;
-            }
-
-            internal double CalcPrecoTOT(double preco, int quantidade)
-            {
-                throw new NotImplementedException();
-            }
-        }
-          
-
-            private void btnCALC_Click(object sender, EventArgs e)
-            {
             CalcPrecoProd obj = new CalcPrecoProd();
-                string codigo;
-                int quantidade;
-                double precoTotal, preco;
+            string codigo;
+            int quantidade;
+            double precoTotal, preco;
 
-                //Entrada de dados:
+            //Entrada de dados:
 
-                 quantidade = int.Parse(txtQUANT.Text);
-                 codigo = comboBoxProdutos.Text;
+            quantidade = int.Parse(txtQUANT.Text);
+            codigo = comboBoxProdutos.Text;
 
-                //Processamento:
-
-                precoTotal = obj.CalcPrecoTOT(preco, quantidade);
-
-                switch (codigo)
-                {
-                    case "AUTO": preco = 325.00; break;
-                    case "MOTO": preco = 102.00; break;
-                    case "BIKE": preco = 76.00; break;
-                    case "KLWE": preco = 176.00; break;
-                    case "WPDD": preco = 456.00; break;
+            //Processamento:
+            switch (codigo)
+            {
+                case "AUTO": preco = 325.00; break;
+                case "MOTO": preco = 102.00; break;
+                case "BIKE": preco = 76.00; break;
+                case "KLWE": preco = 176.00; break;
+                case "WPDD": preco = 456.00; break;
                 default:
                     preco = 0.00;
                     MessageBox.Show("Codigo do produto invalido!");
                     break;
             }
 
-             lblEXIBIRTOT.Text = 
-            }
-        }
+            precoTotal = obj.CalcPrecoTOT(preco, quantidade);
 
+
+            lblEXIBIRTOT.Text = precoTotal.ToString("C");
+
+        }
     }
+
+}
 
